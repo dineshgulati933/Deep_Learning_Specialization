@@ -15,20 +15,9 @@ This repo contains all the lab assignments as well as lecture slides for deep le
 *In **five courses**, you will learn the foundations of Deep Learning, understand how to build neural networks, and learn how to lead successful machine learning projects. You will learn about Convolutional networks, RNNs, LSTM, Adam, Dropout, BatchNorm, Xavier/He initialization, and more. You will work on case studies from healthcare, autonomous driving, sign language reading, music generation, and natural language processing. You will master not only the theory, but also see how it is applied in industry. You will practice all these ideas in Python and in TensorFlow, which we will teach.*
 
 
-# Course Certificate
-
-![Deep Learning Specialization Certificate](course_certificate.jpg)
-
 
 
 ## 1. Neural Networks and Deep Learning
-
-### Quizes
-
-- [Week 1 - Introduction to deep learning](https://github.com/saqemlas/deep-learning-specialization/blob/main/1_NeuralNetworksAndDeepLearning/week_1/Quiz/Introduction_to_deep_learning.md)
-- [Week 2 - Network Basics.md](https://github.com/saqemlas/deep-learning-specialization/blob/main/1_NeuralNetworksAndDeepLearning/week_2/Quiz/Neural_Network_Basics.md)
-- [Week 3 - Shallow Neural Networks](https://github.com/saqemlas/deep-learning-specialization/blob/main/1_NeuralNetworksAndDeepLearning/week_3/Quiz/Shallow_neural_network.md)
-- [Week 4 - Key concepts on Deep Neural Networks](https://github.com/saqemlas/deep-learning-specialization/blob/main/1_NeuralNetworksAndDeepLearning/week_4/Quiz/Key_concepts_on_Deep_Neural_Networks.md)
 
 ### Assignments
 
@@ -47,16 +36,10 @@ Logistic Regression with a Neural Network mindset](https://github.com/saqemlas/d
 - [Week 3](https://github.com/saqemlas/deep-learning-specialization/tree/main/1_NeuralNetworksAndDeepLearning/week_3/Notes) --> NN, Activation function, Backpropagate, Random Initialization
 - [Week 4](https://github.com/saqemlas/deep-learning-specialization/tree/main/1_NeuralNetworksAndDeepLearning/week_4/Notes) --> Deep L-layer Neural network, Matrix dimension right, Why Deep representation, Building blocks of NN, Parameters vs Hyperparameters, Relationship with brain
 
-![Module 1 Certificate](1_NeuralNetworksAndDeepLearning/module_1_certificate.jpg)
 
 
 ## 2. Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
 
-### Quizes
-
-- [Week 1 - Practical aspects of deep learning](https://github.com/saqemlas/deep-learning-specialization/blob/main/2_ImprovingDeepNeuralNetworksHyperparameterTuningRegularizationAndOptimization/week_1/Quiz/Practical_aspects_of_deep_learning.md)
-- [Week 2 - Optimization algorithms](https://github.com/saqemlas/deep-learning-specialization/blob/main/2_ImprovingDeepNeuralNetworksHyperparameterTuningRegularizationAndOptimization/week_2/Quiz/Optimization_algorithms.md)
-- [Week 3 - Hyperparameter tuning, Batch Normalization, Programming Frameworks](https://github.com/saqemlas/deep-learning-specialization/blob/main/2_ImprovingDeepNeuralNetworksHyperparameterTuningRegularizationAndOptimization/week_3/Quiz/Hyperparameter_tuning_Batch_Normalization_Programming_Frameworks.md)
 
 ### Assignments
 
@@ -72,22 +55,15 @@ Logistic Regression with a Neural Network mindset](https://github.com/saqemlas/d
 - [Week 2](https://github.com/saqemlas/deep-learning-specialization/tree/main/2_ImprovingDeepNeuralNetworksHyperparameterTuningRegularizationAndOptimization/week_2/Notes) --> Mini-batch, Exponentially weighted average, GD with momentum, RMSProp, Adam optimizer, Learning rate decay, Local optima problem, Plateaus problem
 - [Week 3](https://github.com/saqemlas/deep-learning-specialization/tree/main/2_ImprovingDeepNeuralNetworksHyperparameterTuningRegularizationAndOptimization/week_3/Notes) --> Tuning process, Picking hyperparameter, Normalizing activations, Softmax regression, Deep learning programming framework 
 
-![Module 2 Certificate](2_ImprovingDeepNeuralNetworksHyperparameterTuningRegularizationAndOptimization/module_2_certificate.jpg)
 
 
 # 3. Structuring Machine Learning Projects
 
-### Quizes
-
-- [Week 1 - Bird recognition in the city of Peacetopia (case study)](https://github.com/saqemlas/deep-learning-specialization/blob/main/3_StructuringMachineLearningProjects/week_1/Quiz/Bird_recognition_in_the_city_of_Peacetopia.md)
-- [Week 2 - Autonomous driving (case study)](https://github.com/saqemlas/deep-learning-specialization/blob/main/3_StructuringMachineLearningProjects/week_2/Quiz/Autonomous_driving.md)
 
 ### Lectures / Notes
 
 - [Week 1](https://github.com/saqemlas/deep-learning-specialization/tree/main/3_StructuringMachineLearningProjects/week_1/Notes) --> Why ML Strategy?, Orthogonalization, Single number evaluation metric, Satisficing and optimizing metrics, Train/dev/test distribution, Human level performance, Avoidable bias
 - [Week 2](https://github.com/saqemlas/deep-learning-specialization/tree/main/3_StructuringMachineLearningProjects/week_2/Notes) --> Error analysis, Incorrectly labeled data, Data augmentation, Transfer learning, Multitask learning, End-to-End Deep learning
-
-![Module 3 Certificate](3_StructuringMachineLearningProjects/module_3_certificate.jpg)
 
 
 # 4. Convolutional Neural Networks
@@ -100,17 +76,6 @@ Logistic Regression with a Neural Network mindset](https://github.com/saqemlas/d
 - [Week 4 - Special applications: Face recognition & Neural style transfer](https://github.com/saqemlas/deep-learning-specialization/blob/main/4_ConvolutionalNeuralNetworks/week_4/Quiz/Special_Applications:Face_Recognition_&_Neural_Style_Transfer.md)
 
 
-### Assignments
-
-- [Week 1 - Convolutional Neural Networks: Step By Step](https://github.com/saqemlas/deep-learning-specialization/blob/main/4_ConvolutionalNeuralNetworks/week_1/Assignment/Convolution_model_Step_by_Step.ipynb)
-- [Week 1 - Convolutional Neural Networks: Application](https://github.com/saqemlas/deep-learning-specialization/blob/main/4_ConvolutionalNeuralNetworks/week_1/Assignment/Convolution_model_Application.ipynb)
-- [Week 2 - Keras](https://github.com/saqemlas/deep-learning-specialization/blob/main/4_ConvolutionalNeuralNetworks/week_2/Assignment/Transfer_learning_with_MobileNet.ipynb)
-- [Week 2 - ResNets](https://github.com/saqemlas/deep-learning-specialization/blob/main/4_ConvolutionalNeuralNetworks/week_2/Assignment/Residual_Networks.ipynb)
-- [Week 3 - Car detection for Autonomous Driving](https://github.com/saqemlas/deep-learning-specialization/blob/main/4_ConvolutionalNeuralNetworks/week_3/Assignment/Autonomous_driving_application_Car_detection.ipynb)
-- [Week 3 - Image Segmentation Unet](https://github.com/saqemlas/deep-learning-specialization/blob/main/4_ConvolutionalNeuralNetworks/week_3/Assignment/Image_segmentation_Unet.ipynb)
-- [Week 4 - Face Recognition](https://github.com/saqemlas/deep-learning-specialization/blob/main/4_ConvolutionalNeuralNetworks/week_4/Assignment/Face_Recognition.ipynb)
-- [Week 4 - Neural Style Transfer](https://github.com/saqemlas/deep-learning-specialization/blob/main/4_ConvolutionalNeuralNetworks/week_4/Assignment/Art_Generation_with_Neural_Style_Transfer.ipynb)
-
 ### Lectures / Notes
 
 - [Week 1](https://github.com/saqemlas/deep-learning-specialization/tree/main/4_ConvolutionalNeuralNetworks/week_1/Lectures) --> Computer vision, Edge detection, Padding, Strided convolution, Convolutions over volume, Pooling layers, CNN, Why CNN?
@@ -118,16 +83,11 @@ Logistic Regression with a Neural Network mindset](https://github.com/saqemlas/d
 - [Week 3](https://github.com/saqemlas/deep-learning-specialization/tree/main/4_ConvolutionalNeuralNetworks/week_3/Lectures) --> Object localization, Landmark detection, Object detection, Sliding window, Bounding box prediction, Intersection over union(IOU), Non-max suppression, Anchor box, YOLO algorithm
 - [Week 4](https://github.com/saqemlas/deep-learning-specialization/tree/main/4_ConvolutionalNeuralNetworks/week_4/Lectures) --> Face recognition, One-shot learning, Siamese network, Neural style transfer
 
-![Module 4 Certificate](4_ConvolutionalNeuralNetworks/module_4_certificate.jpg)
 
 
 # 5. Sequence Models
 
-### Quizes
-
-- [Week 1 - Recurrent Neural Networks](https://github.com/saqemlas/deep-learning-specialization/blob/main/5_SequenceModels/week_1/Quiz/Recurrent_Neural_Networks.md)
-- [Week 2 - Natural Language Processing & Word Embeddings](https://github.com/saqemlas/deep-learning-specialization/blob/main/5_SequenceModels/week_2/Quiz/Natural_Language_Processing&Word_Embeddings.md)
-- [Week 3 - Sequence models & Attention mechanism](https://github.com/saqemlas/deep-learning-specialization/blob/main/5_SequenceModels/week_3/Quiz/Sequence_models&Attention_mechanism.md)
+### Lectures / Notes
 
 
 ### Assignments
