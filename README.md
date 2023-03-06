@@ -1,5 +1,6 @@
 # Deep_Learning_Specialization by DeepLearning.ai on Coursera
 
+**IMPORTANT** **_Before accessing this repo, be sure to abide by the honest code of coursera which means you are not using this repo code to submit as your own to pass the lab assignments. This repo is only for information purpose or audience who audit this course on coursera. All notenooks and lecture notes are property of deeplearning and may be deleted if objected._**
 
 **Master Deep Learning, and Break into AI**
 
@@ -22,19 +23,19 @@ This repo contains all the lab assignments as well as lecture slides for deep le
 ### Assignments
 
 - [Week 2 - 
-Python Basics with Numpy](https://github.com/saqemlas/deep-learning-specialization/blob/main/1_NeuralNetworksAndDeepLearning/week_2/Assignment/Python_Basics_with_Numpy.ipynb)
+Python Basics with Numpy](https://github.com/dineshgulati933/Deep_Learning_Specialization/blob/main/Course_1/Week_2/Lab/W2A1/Python_Basics_with_Numpy.ipynb)
 - [Week 2 - 
-Logistic Regression with a Neural Network mindset](https://github.com/saqemlas/deep-learning-specialization/blob/main/1_NeuralNetworksAndDeepLearning/week_2/Assignment/Logistic_Regression_with_a_Neural_Network_mindset.ipynb)
-- [Week 3 - Planar data classification with one hidden layer](https://github.com/saqemlas/deep-learning-specialization/blob/main/1_NeuralNetworksAndDeepLearning/week_3/Assignment/Planar_data_classification_with_onehidden_layer.ipynb)
-- [Week 4 - Building your Deep Neural Network - Step by Step](https://github.com/saqemlas/deep-learning-specialization/blob/main/1_NeuralNetworksAndDeepLearning/week_4/Assignment/Building_your_Deep_Neural_Network_Step_by_Step.ipynb)
-- [Week 4 - Deep Neural Network for Image Classification: Application](https://github.com/saqemlas/deep-learning-specialization/blob/main/1_NeuralNetworksAndDeepLearning/week_4/Assignment/Deep_Neural_Network_Application.ipynb)
+Logistic Regression with a Neural Network mindset](https://github.com/dineshgulati933/Deep_Learning_Specialization/blob/main/Course_1/Week_2/Lab/W2A2/Logistic_Regression_with_a_Neural_Network_mindset.ipynb)
+- [Week 3 - Planar data classification with one hidden layer](https://github.com/dineshgulati933/Deep_Learning_Specialization/blob/main/Course_1/Week_3/Lab/W3A1/Planar_data_classification_with_one_hidden_layer.ipynb)
+- [Week 4 - Building your Deep Neural Network - Step by Step](https://github.com/dineshgulati933/Deep_Learning_Specialization/blob/main/Course_1/Week_4/Lab/W4A1/Building_your_Deep_Neural_Network_Step_by_Step.ipynb)
+- [Week 4 - Deep Neural Network for Image Classification: Application](https://github.com/dineshgulati933/Deep_Learning_Specialization/blob/main/Course_1/Week_4/Lab/W4A2/Deep%20Neural%20Network%20-%20Application.ipynb)
 
 ### Lectures / Notes
 
-- [Week 1](https://github.com/saqemlas/deep-learning-specialization/tree/main/1_NeuralNetworksAndDeepLearning/week_1/Notes) --> Introduction, NN, Why Deep learning
-- [Week 2](https://github.com/saqemlas/deep-learning-specialization/tree/main/1_NeuralNetworksAndDeepLearning/week_2/Notes) --> Logistic regression, Gradient Descent, Derivatives, Vectorization, Python Broadcasting
-- [Week 3](https://github.com/saqemlas/deep-learning-specialization/tree/main/1_NeuralNetworksAndDeepLearning/week_3/Notes) --> NN, Activation function, Backpropagate, Random Initialization
-- [Week 4](https://github.com/saqemlas/deep-learning-specialization/tree/main/1_NeuralNetworksAndDeepLearning/week_4/Notes) --> Deep L-layer Neural network, Matrix dimension right, Why Deep representation, Building blocks of NN, Parameters vs Hyperparameters, Relationship with brain
+- [Week 1](https://github.com/dineshgulati933/Deep_Learning_Specialization/blob/main/Course_1/Week_1/Lecture/C1_W1.pdf) --> Introduction, NN, Why Deep learning
+- [Week 2](https://github.com/dineshgulati933/Deep_Learning_Specialization/blob/main/Course_1/Week_2/Lecture/C1_W2.pdf) --> Logistic regression, Gradient Descent, Derivatives, Vectorization, Python Broadcasting
+- [Week 3](https://github.com/dineshgulati933/Deep_Learning_Specialization/blob/main/Course_1/Week_3/Lecture/C1_W3.pdf) --> NN, Activation function, Backpropagate, Random Initialization
+- [Week 4](https://github.com/dineshgulati933/Deep_Learning_Specialization/blob/main/Course_1/Week_4/Lecture/C1_W4.pdf) --> Deep L-layer Neural network, Matrix dimension right, Why Deep representation, Building blocks of NN, Parameters vs Hyperparameters, Relationship with brain
 
 
 
